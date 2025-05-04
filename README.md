@@ -2,8 +2,6 @@
 
 A Python-based SVG Chinese landscape generator inspired by traditional Shan Shui paintings. This project is a Python implementation of [Lingdong Huang's Shan-Shui-Inf](https://github.com/LingDong-/shan-shui-inf) JavaScript project.
 
-![Example Landscape](./test_landscape.svg)
-
 ## What is Shan Shui?
 
 "Shan Shui" (山水) literally translates to "mountain-water" in Chinese. It refers to a traditional style of Chinese landscape painting that has existed since the 5th century. These paintings typically depict mountains, rivers, and often small human figures, capturing the essence of nature rather than creating a photorealistic depiction.
@@ -16,7 +14,7 @@ ShanShui.py has no external dependencies and works with standard Python 3.6+.
 
 1. Clone or download this repository:
    ```
-   git clone https://github.com/yourusername/shangshui.git
+   git clone https://github.com/MushroomFleet/SVG_ShanShui-cli
    cd shangshui
    ```
 
